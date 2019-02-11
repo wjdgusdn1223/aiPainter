@@ -1,3 +1,3 @@
 # aiPainter
 
-! [] (catAiPainter.gif)
+![](./catAiPainter.gif)
